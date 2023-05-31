@@ -2,13 +2,13 @@
 Minimal implementation for the **SE**mi-algebraic framework for the approximate coupled **C**P decompositions via **SI**multaneous Matrix Diagonalizations (SECSI) [1].
 
 
-C-SECSI is a framework for the coupled semi-algebraic CP-decomposition of N-th order multidimensional arrays (tensors) and has been published in [1].
+C-SECSI is a framework for the coupled semi-algebraic CP-decomposition of three-way multidimensional arrays (tensors).
 
  * **C-SECSI** provides an enhanced performance compared to other solvers in difficult scenarios, e.g., correlated factors
  * **C-SECSI** offers complexity-accuracy tradeoff by selecting appropriate heuristics
 
 
-Note: this is my personal minimal implementation of the framework, which highlights the use of the 'REC PS' heuristic.
+Note: this is my personal minimal implementation of the framework, which highlights the use of the 'REC PS' heuristic. 
 
 
 # Dependencies
